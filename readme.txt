@@ -1,2 +1,2 @@
 Day la project git dau tien cua minh
-Them dong moi de test commit
+"Tính n?ng m?i: Thêm mô t? chi ti?t h?n v? repo, cách dùng, v.v."
